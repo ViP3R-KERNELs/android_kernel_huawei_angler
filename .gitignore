@@ -45,7 +45,7 @@ modules.builtin
 /System.map
 /Module.markers
 /Module.symvers
-
+/kali-nethunter-kernel
 #
 # Debian directory (make deb-pkg)
 #
